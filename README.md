@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I am of passionate web developers and AI enthusiasts with 2.5+ years of experience. My expertise spans HTML, CSS, JavaScript, React js, Node js, Express js, MongoDB and more – even AI and ChatGPT. Crafting engaging websites is our forte, catering to the distinct requirements of my clients.
+I am of passionate web developers and AI enthusiasts with 2.5+ years of experience. My expertise spans HTML, CSS, JavaScript, React js, Node js, Express js, MongoDB and more – even AI and ChatGPT.
 
-Beyond the realms of code, I am driven by the art of user experience. We're not just developers; I am storytellers, creating digital experiences that leave an impact. My motivation? Turning ideas into exceptional results. Let's chat about your project!
+Crafting engaging websites is our forte, catering to the distinct requirements of my clients. Beyond the realms of code, I am driven by the art of user experience. We're not just developers; I am storytellers, creating digital experiences that leave an impact. My motivation? Turning ideas into exceptional results. Let's chat about your project!
 
 *   🌍  I'm based in Dhaka Bangladesh
 *   🖥️  See my portfolio at [My Portfolio](http://mdlihan.netlify.app)
