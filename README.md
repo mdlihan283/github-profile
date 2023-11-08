@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Lihan
-================================================================================================================================
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-Web Developer and Designer
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md Lihan</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh</h3>
 --------------------------
 
 I am of passionate web developers and AI enthusiasts with 2.5+ years of experience. My expertise spans HTML, CSS, JavaScript, React js, Node js, Express js, MongoDB and more – even AI and ChatGPT.
