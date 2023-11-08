@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh</h3>
 
 
-## 🙋‍♂️ About Me
+## 🚀 About Me
 
 I am of passionate web developers and AI enthusiasts with 2.5+ years of experience. My expertise spans HTML, CSS, JavaScript, React js, Node js, Express js, MongoDB and more – even AI and ChatGPT.
 
